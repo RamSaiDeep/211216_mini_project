@@ -17,7 +17,3 @@ This program will encrypt and decypt a file using the RSA algorithm.
 Encrypted file is named as filename_encrypted.txt 
 
 Decrypted file is named as filename_decrypted.txt
-
-This is done by V Ram Sai Deep.
-
-Contact me at ramasaideepv@gmail.com for feedback
